@@ -1,0 +1,28 @@
+div, ul, li, p{
+	margin:0;
+	padding:0;
+}
+
+.tag-frame > ul {
+	list-style-type:none;
+}
+.tag-frame  li {
+	float:left;
+	margin:0 0 0 10px;
+	font-size:28pt;
+	/* font-weight:bold; */
+}
+.image-frame {
+	clear:both;
+	width:620px;
+	margin:0 10px;
+}
+.image-frame > img{
+	width:620px;
+	height:auto;
+}
+.feedback-frame {
+	background:#e2e2e2;
+	border:1px black solid;
+	border-radius:0 0 5px 5px;
+}
