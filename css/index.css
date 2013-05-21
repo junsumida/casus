@@ -2,6 +2,9 @@ div, ul, li, p{
 	margin:0;
 	padding:0;
 }
+#full-container {
+	padding:20px 0;
+}
 .tag-frame > ul {
 	list-style-type:none;
 }
