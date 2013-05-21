@@ -2,15 +2,16 @@ div, ul, li, p{
 	margin:0;
 	padding:0;
 }
-
 .tag-frame > ul {
 	list-style-type:none;
 }
 .tag-frame  li {
 	float:left;
 	margin:0 0 0 10px;
-	font-size:28pt;
+	font-size:24pt;
 	/* font-weight:bold; */
+	background:url('../img/tag.png') no-repeat left top;
+	padding-left:36px;
 }
 .image-frame {
 	clear:both;
@@ -25,4 +26,8 @@ div, ul, li, p{
 	background:#e2e2e2;
 	border:1px black solid;
 	border-radius:0 0 5px 5px;
+}
+
+.feedback-comments {
+	font-size:18pt;
 }
