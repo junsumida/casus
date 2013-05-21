@@ -25,16 +25,16 @@
         <!-- Add your site or application content here -->
         <div id="full_container">
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>AHO</li>
-					<li>愛すべきバカ</li>
-					<li>HOMO</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/homo.gif">
+				<img class="lazy"  src="./img/homo.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>AHO</li>
+							<li>愛すべきバカ</li>
+							<li>HOMO</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -47,15 +47,53 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>AHO</li>
-					<li>クッソワロタｗｗｗ</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/airplane.gif">
+				<img class="lazy"  src="./img/ando.jpg">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>安藤美姫</li>
+						</ul>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
+					</div>
+					<div class="feedback-comments">
+					<p>1: 安藤美紀のせいで俺の右肩が破裂したｗｗｗ</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+		</section>
+		<section class="content-frame">
+			<div class="image-frame">
+				<img class="lazy"  src="./img/sakana.jpg">
+				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>魚介系男子</li>
+						</ul>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
+					</div>
+					<div class="feedback-comments">
+					<p>1: 安藤美紀のせいで俺の右肩が破裂したｗｗｗ</p>
+					</div>
+				</div>
+			</div>
+			<hr>
+		</section>
+		<section class="content-frame">
+			<div class="image-frame">
+				<img class="lazy"  src="./img/airplane.gif">
+				<div class="feedback-frame">				
+					<div class="tag-frame">
+						<ul>
+							<li>AHO</li>
+							<li>クッソワロタｗｗｗ</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -69,14 +107,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>意味不明</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/hole.gif">
+				<img class="lazy"  src="./img/hole.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>意味不明</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -88,14 +126,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>ｗｗｗ</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/king.gif">
+				<img class="lazy"  src="./img/king.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>ｗｗｗ</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -107,14 +145,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>ｗｗｗ</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/turnaround.gif">
+				<img class="lazy"  src="./img/turnaround.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>ｗｗｗ</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -126,14 +164,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>サッカー</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/football.gif">
+				<img class="lazy"  src="./img/football.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>サッカー</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -145,14 +183,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>陸上</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/track.gif">
+				<img class="lazy"  src="./img/track.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>陸上</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -164,14 +202,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>ボート</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/boat.gif">
+				<img class="lazy"  src="./img/boat.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>ボート</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -183,14 +221,14 @@
 			<hr>
 		</section>
 		<section class="content-frame">
-			<div class="tag-frame">
-				<ul>
-					<li>イミフ</li>
-				</ul>
-			</div>
 			<div class="image-frame">
-				<img src="./img/imifu.gif">
+				<img class="lazy"  src="./img/imifu.gif">
 				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>イミフ</li>
+						</ul>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
@@ -212,7 +250,7 @@
 				</ul>
 			</div>
 			<div class="image-frame">
-				<img src="./img/.gif">
+				<img class="lazy"  src="./img/.gif">
 				<div class="feedback-frame">
 					<div class="feedback-buttons">
 						<img src="">

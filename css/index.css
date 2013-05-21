@@ -7,6 +7,9 @@ section.content-frame {
 	margin:20px 0;
 }
 
+.tag-frame {
+	margin:10px 0;
+}
 .tag-frame > ul {
 	list-style-type:none;
 }
