@@ -35,12 +35,12 @@
 							<li>HOMO</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: ヤバいwwwww</p>
 					<p>2: 気づけよwww</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -55,11 +55,11 @@
 							<li>安藤美姫</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: 安藤美紀のせいで俺の右肩が破裂したｗｗｗ</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -74,11 +74,11 @@
 							<li>魚介系男子</li>
 						</ul>
 					</div>
+					<div class="feedback-comments">
+					<p>1: ガチで笑ったｗ</p>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
-					</div>
-					<div class="feedback-comments">
-					<p>1: 安藤美紀のせいで俺の右肩が破裂したｗｗｗ</p>
 					</div>
 				</div>
 			</div>
@@ -94,13 +94,13 @@
 							<li>クッソワロタｗｗｗ</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: ざけんな電車で吹いたわ</p>
 					<p>2: クッソワロタｗｗｗｗｗｗｗ</p>
 					<p>3: クッソワロタｗｗｗｗ <br> 卑怯だわｗｗｗｗｗｗ</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -115,11 +115,11 @@
 							<li>意味不明</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: マジで意味不明でワロタ</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -134,11 +134,11 @@
 							<li>ｗｗｗ</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: あっさりスルーされてるけどこれ大好きだわ</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -153,11 +153,11 @@
 							<li>ｗｗｗ</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: なんかしらんけどくそわろた</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -172,11 +172,11 @@
 							<li>サッカー</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: くっだらねぇｗｗｗｗｗｗ</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -191,11 +191,11 @@
 							<li>陸上</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: これwwwww</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -210,11 +210,30 @@
 							<li>ボート</li>
 						</ul>
 					</div>
+					<div class="feedback-comments">
+					<p>1: くそ、こんなのでwwwwwwwwwwwww</p>
+					</div>
 					<div class="feedback-buttons">
 						<a class="css_btn_class">ヤバイ</a>
 					</div>
+				</div>
+			</div>
+			<hr>
+		</section>
+		<section class="content-frame">
+			<div class="image-frame">
+				<img class="lazy"  src="./img/hotdog.jpg">
+				<div class="feedback-frame">
+					<div class="tag-frame">
+						<ul>
+							<li>ボート</li>
+						</ul>
+					</div>
 					<div class="feedback-comments">
 					<p>1: くそ、こんなのでwwwwwwwwwwwww</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>
@@ -229,11 +248,11 @@
 							<li>イミフ</li>
 						</ul>
 					</div>
-					<div class="feedback-buttons">
-						<a class="css_btn_class">ヤバイ</a>
-					</div>
 					<div class="feedback-comments">
 					<p>1: くそわらたwewwww</p>
+					</div>
+					<div class="feedback-buttons">
+						<a class="css_btn_class">ヤバイ</a>
 					</div>
 				</div>
 			</div>

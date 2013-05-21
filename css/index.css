@@ -4,11 +4,13 @@ div, ul, li, p{
 }
 
 section.content-frame {
-	margin:20px 0;
+	margin:40px 0;
 }
 
 .tag-frame {
 	margin:10px 0;
+	border-bottom:1px solid #000;
+	height:43px
 }
 .tag-frame > ul {
 	list-style-type:none;
@@ -22,7 +24,6 @@ section.content-frame {
 	padding-left:36px;
 }
 .image-frame {
-	clear:both;
 	width:620px;
 	margin:0 10px;
 }
@@ -38,6 +39,7 @@ section.content-frame {
 
 .feedback-comments {
 	font-size:21pt;
+	clear:both;
 }
 .feedback-buttons {
 	padding:1px;
