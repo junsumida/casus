@@ -40,13 +40,15 @@ section.content-frame {
 .feedback-comments {
 	font-size:21pt;
 	clear:both;
+  padding:10px;
 }
 .feedback-buttons {
 	padding:1px;
-	border-bottom:1px solid black;
+	border-top:1px solid black;
+  padding:10px;
 }
 .css_btn_class {
-	font-size:21pt;
+	font-size:28pt;
 	font-family:Arial;
 	font-weight:normal;
 	-moz-border-radius:8px;
