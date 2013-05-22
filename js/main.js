@@ -7,4 +7,12 @@ $(document).ready(function(){
 		temp += _.template(template, {img:number})
 	}
 	$("#full_container").append(temp);
+
+	//yabai comment
+	$(".yabai").on("click", function(){
+		var click_count = $(this).data("click");
+		click_count += 1;
+		$(this).html(click_count + '<span class="ya">ヤ</span>バイ');
+		$(this).data("click", click_count);
+	});
 });
