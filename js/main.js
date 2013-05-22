@@ -1,7 +1,7 @@
 $(document).ready(function(){
 	var template = $("#template").text();
 	var temp = "";
-	for(var i=1; i<23; i++){
+	for(var i=1; i<26; i++){
 		var img = null;
 		i < 10 ? number = "0" + i : number = i;
 		temp += _.template(template, {img:number})
