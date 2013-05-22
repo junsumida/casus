@@ -22,6 +22,7 @@ section.content-frame {
 	/* font-weight:bold; */
 	background:url('../img/tag.png') no-repeat left top;
 	padding-left:36px;
+	color:rgb(74, 115, 221);
 }
 .image-frame {
 	width:620px;
