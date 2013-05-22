@@ -9,7 +9,8 @@ $(document).ready(function(){
 	$("#full_container").append(temp);
 
 	//yabai comment
-	$(".yabai").on("click", function(){
+	$(".yabai").on("click", function(event){
+		event.preventDefault();
 		var click_count = $(this).data("click");
 		click_count += 1;
 		$(this).html(click_count + '<span class="ya">ヤ</span>バイ');
